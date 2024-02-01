@@ -1,0 +1,11 @@
+1,CIS101,Intro to computer and Use
+2,Programming for C++,C++ programming
+3,CS113,Programming in Java
+4,CS136,Descrete Structures
+5,CS213,Advance programming in Java
+6,CS101,Introduction to Computer Programing
+7,CS118,Assembly Language
+8,CIS210,Intro to Network
+9,MATH173,Object Oriented Programing 
+0,MATH270,Linear Algebra
+0,CS999,HTML
