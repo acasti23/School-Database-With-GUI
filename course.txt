@@ -7,5 +7,5 @@
 7,CS118,Assembly Language
 8,CIS210,Intro to Network
 9,MATH173,Object Oriented Programing 
-0,MATH270,Linear Algebra
-0,CS999,HTML
+10,MATH270,Linear Algebra
+10,CS999,HTML
